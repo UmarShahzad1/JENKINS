@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome Umar</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+      color: white;
+      font-family: Arial, sans-serif;
+      font-size: 2rem;
+    }
+  </style>
+</head>
+<body>
+  Welcome Umar! To nginx web-server
+</body>
+</html>' 
